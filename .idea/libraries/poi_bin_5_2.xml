@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="poi-bin-5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-anim-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-awt-util-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-bridge-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-codec-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-constants-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-css-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-dom-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-ext-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-gvt-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-i18n-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-parser-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-script-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-svg-dom-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-svggen-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-svgrasterizer-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-transcoder-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-util-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/batik-xml-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/bcpkix-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/bcprov-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/bcutil-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/fontbox-2.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/graphics2d-0.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/pdfbox-2.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/xml-apis-ext-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/xmlgraphics-commons-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary/xmlsec-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-examples-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-excelant-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-ooxml-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-ooxml-full-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-ooxml-lite-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-scratchpad-5.2.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1" />
+      <root url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary" />
+      <root url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/lib" />
+      <root url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/poi-javadoc-5.2.1.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/auxiliary" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/poi-bin-5.2.1-20220224/poi-bin-5.2.1/ooxml-lib" recursive="false" />
+  </library>
+</component>

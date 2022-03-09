@@ -27,7 +27,7 @@ public class HelloController {
     void initialize() {
         StartButton.setOnAction(event -> {
             StartButton.getScene().getWindow().hide();
-            FXMLLoader loader = new FXMLLoader(Application.class.getResource("MainMenu.fxml"));
+            FXMLLoader loader = new FXMLLoader(Application.class.getResource("test.fxml"));
             try {
                 loader.load();
             } catch (IOException e) {
